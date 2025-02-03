@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋!</h2>
 
 <p align="left">
-  <h2>My name is Lucas N'guyen</h2>
+  <h3>My name is Lucas N'guyen</h2>
   🌀 I'm 20y
   <br>
   📍 From Aix en Provence | Antibes
