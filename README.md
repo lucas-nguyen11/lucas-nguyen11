@@ -2,7 +2,9 @@
 
 <p align="left">
   <h2>My name is Lucas N'guyen</h2>
-  🌀 I'm 20
+  🌀 I'm 20y
+  <br>
+  📍 From Aix en Provence | Antibes
   <br>
   👨‍💻 I'm a Full Stack Web Developer
   <br>
