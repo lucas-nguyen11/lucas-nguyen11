@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Lucas Nguyen and I'm a 20, from Aix en Provence</h2>
+<h2 align="left">Hi 👋! My name is Lucas N'guyen and I'm a 20, from Aix en Provence</h2>
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/125372380?v=4"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWgxZHNzcGFkZ3J0ZG10eXQ0d2NoNTJzOG1rY3NldDFobjcza3drcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zlaiZs9fwpN0IeTWm0/giphy.gif"  />
 
 ###
 
