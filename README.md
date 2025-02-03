@@ -3,7 +3,9 @@
 <p align="left">
   <h2>My name is Lucas N'guyen and I'm 20, from Aix en Provence</h2>
   I'm a Full Stack Web Developer 👨‍💻 
+  <br>
   Apprentice at BOEKI Agency.
+  <br>
   Student BUT Informatique program in Aix en Provence 🎓.
 </p>
 ###
