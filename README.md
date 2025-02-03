@@ -1,14 +1,15 @@
 <h2 align="left">Hi 👋!</h2>
 
 <p align="left">
-  <h2>My name is Lucas N'guyen and I'm 20, from Aix en Provence</h2>
+  <h2>My name is Lucas N'guyen</h2>
+  I'm 20
+  <br>
   I'm a Full Stack Web Developer 👨‍💻 
   <br>
   Apprentice at BOEKI Agency.
   <br>
-  Student BUT Informatique program in Aix en Provence 🎓.
+  Student BUT Informatique in Aix en Provence 🎓.
 </p>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-nguyen11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
