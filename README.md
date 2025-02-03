@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas N'guyen and I'm a 20 from Aix en Provence</h2>
+<h2 align="left">Hi 👋! My name is Lucas N'guyen and I'm a 20, from Aix en Provence</h2>
 
 ###
 
@@ -42,6 +42,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/lucas-nguyen11/lucas-nguyen11/output/snake.svg" alt="Snake animation" />
 
