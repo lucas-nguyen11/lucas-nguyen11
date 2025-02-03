@@ -2,13 +2,13 @@
 
 <p align="left">
   <h2>My name is Lucas N'guyen</h2>
-  I'm 20 🌀.
+  🌀 I'm 20
   <br>
-  I'm a Full Stack Web Developer 👨‍💻.
+  👨‍💻 I'm a Full Stack Web Developer
   <br>
-  Apprentice at BOEKI Agency 🧑🏾‍💼.
+  🧑🏾‍💼 Apprentice at BOEKI Agency
   <br>
-  Student BUT Informatique in Aix en Provence 🎓.
+  🎓 Student BUT Informatique in Aix en Provence 
 </p>
 
 <div align="center">
