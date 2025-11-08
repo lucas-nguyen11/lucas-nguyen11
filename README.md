@@ -2,7 +2,7 @@
 
 <p align="left">
   <h3>My name is Lucas N'guyen</h2>
-  🌀 I'm 20y
+  🌀 I'm 21y
   <br>
   📍 From Aix en Provence | Antibes
   <br>
@@ -10,5 +10,5 @@
   <br>
   🧑🏾‍💼 Apprentice at BOEKI Agency
   <br>
-  🎓 Student BUT Informatique in Aix en Provence 
+  🎓 Student MAALSI CESI Aix-en-Provence
 </p>
